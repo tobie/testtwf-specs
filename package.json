@@ -1,0 +1,20 @@
+{
+  "name": "testtwf-specs",
+  "version": "0.0.0",
+  "description": "Test suite status for Open Web Platform specs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/w3c/testtwf-specs.git"
+  },
+  "author": "Tobie Langel",
+  "license": "",
+  "dependencies": {
+      "request": "*",
+      "q": "*",
+      "batch": "*"
+  }
+}
